@@ -1,4 +1,3 @@
 # factorial
 factorial function
-input:N
-output:N!
+work done
